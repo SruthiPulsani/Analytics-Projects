@@ -1,0 +1,78 @@
+productID,productName,quantityPerUnit,unitPrice,discontinued,categoryID
+1,Chai,10,18.0,0,1
+2,Chang,24,19.0,0,1
+3,Aniseed Syrup,12,10.0,0,2
+4,Chef Anton's Cajun Seasoning,48,22.0,0,2
+5,Chef Anton's Gumbo Mix,36,21.35,1,2
+6,Grandma's Boysenberry Spread,12,25.0,0,2
+7,Uncle Bob's Organic Dried Pears,12,30.0,0,7
+8,Northwoods Cranberry Sauce,12,40.0,0,2
+9,Mishi Kobe Niku,18,97.0,1,6
+10,Ikura,12,31.0,0,8
+11,Queso Cabrales,1,21.0,0,4
+12,Queso Manchego La Pastora,10,38.0,0,4
+13,Konbu,2,6.0,0,8
+14,Tofu,40,23.25,0,7
+15,Genen Shouyu,24,15.5,0,2
+16,Pavlova,32,17.45,0,3
+17,Alice Mutton,20,39.0,1,6
+18,Carnarvon Tigers,16,62.5,0,8
+19,Teatime Chocolate Biscuits,10,9.2,0,3
+20,Sir Rodney's Marmalade,30,81.0,0,3
+21,Sir Rodney's Scones,24,10.0,0,3
+22,Gustaf's Knackebrod,24,21.0,0,5
+23,Tunnbrod,12,9.0,0,5
+24,Guarana Fantastica,12,4.5,1,1
+25,NuNuCa Nu-Nougat-Creme,20,14.0,0,3
+26,Gumbar Gummibarchen,100,31.23,0,3
+27,Schoggi Schokolade,100,43.9,0,3
+28,Rossle Sauerkraut,25,45.6,1,7
+29,Thuringer Rostbratwurst,50,123.79,1,6
+30,Nord-Ost Matjeshering,10,25.89,0,8
+31,Gorgonzola Telino,12,12.5,0,4
+32,Mascarpone Fabioli,24,32.0,0,4
+33,Geitost,500,2.5,0,4
+34,Sasquatch Ale,24,14.0,0,1
+35,Steeleye Stout,24,18.0,0,1
+36,Inlagd Sill,24,19.0,0,8
+37,Gravad lax,12,26.0,0,8
+38,Cote de Blaye,12,263.5,0,1
+39,Chartreuse verte,750,18.0,0,1
+40,Boston Crab Meat,24,18.4,0,8
+41,Jack's New England Clam Chowder,12,9.65,0,8
+42,Singaporean Hokkien Fried Mee,32,14.0,1,5
+43,Ipoh Coffee,16,46.0,0,1
+44,Gula Malacca,20,19.45,0,2
+45,Rogede sild,1,9.5,0,8
+46,Spegesild,4,12.0,0,8
+47,Zaanse koeken,10,9.5,0,3
+48,Chocolade,10,12.75,0,3
+49,Maxilaku,24,20.0,0,3
+50,Valkoinen suklaa,12,16.25,0,3
+51,Manjimup Dried Apples,50,53.0,0,7
+52,Filo Mix,16,7.0,0,5
+53,Perth Pasties,48,32.8,1,6
+54,Tourtiere,16,7.45,0,6
+55,Pate chinois,24,24.0,0,6
+56,Gnocchi di nonna Alice,24,38.0,0,5
+57,Ravioli Angelo,24,19.5,0,5
+58,Escargots de Bourgogne,24,13.25,0,8
+59,Raclette Courdavault,5,55.0,0,4
+60,Camembert Pierrot,15,34.0,0,4
+61,Sirop d'erable,24,28.5,0,2
+62,Tarte au sucre,48,49.3,0,3
+63,Vegie-spread,15,43.9,0,2
+64,Wimmers gute Semmelknodel,20,33.25,0,5
+65,Louisiana Fiery Hot Pepper Sauce,32,21.05,0,2
+66,Louisiana Hot Spiced Okra,24,17.0,0,2
+67,Laughing Lumberjack Lager,24,14.0,0,1
+68,Scottish Longbreads,10,12.5,0,3
+69,Gudbrandsdalsost,10,36.0,0,4
+70,Outback Lager,24,15.0,0,1
+71,Flotemysost,10,21.5,0,4
+72,Mozzarella di Giovanni,24,34.8,0,4
+73,Rod Kaviar,24,15.0,0,8
+74,Longlife Tofu,5,10.0,0,7
+75,Rhonbrau Klosterbier,24,7.75,0,1
+76,Lakkalikori,500,18.0,0,1
+77,Original Frankfurter Grune Soe,12,13.0,0,2
