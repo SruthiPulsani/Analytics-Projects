@@ -1,4 +1,4 @@
-📊 Sales Analysis Project
+                                                📊 Sales Analysis Project
 
 ✨ Overview
 Analyze sales data to uncover revenue, product/category, customer, and employee insights using SQL queries.
