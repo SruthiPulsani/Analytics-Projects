@@ -43,4 +43,3 @@ The dashboard highlights **sales, revenue trends, product/category insights, and
 
 ---
 
-🔗 [LinkedIn](your-linkedin-url) | 📧 your.email@example.com  
